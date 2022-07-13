@@ -1,0 +1,3 @@
+[submodule "git-submodule-schema"]
+	path = git-submodule-schema
+	url = https://github.com/NicholasDevStore/git-submodule-schema
